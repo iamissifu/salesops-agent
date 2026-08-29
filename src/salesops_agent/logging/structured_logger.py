@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 from ..config.settings import settings
-from ..guardrails.output_guardrail import REDACTION_TOKEN
+from ..guardrails.output_guardrail import REDACTION_TOKEN, OutputGuardrail
 
 SENSITIVE_FIELD_NAMES = {
     "salary",
@@ -51,6 +51,7 @@ class TraceWriter:
     def __init__(self):
         self.trace_dir = settings.traces_dir
         self.trace_dir.mkdir(parents=True, exist_ok=True)
+        self._output_guardrail = OutputGuardrail()
 
     def save_trace(self, run_id: str, trace_data: Dict[str, Any]) -> None:
         payload = {
@@ -78,8 +79,12 @@ class TraceWriter:
             return redacted
         if isinstance(value, list):
             return [self._redact(item) for item in value]
-        if isinstance(value, str) and self._looks_restricted(value):
-            return REDACTION_TOKEN
+        if isinstance(value, str):
+            allowed, _, redacted = self._output_guardrail.check(value)
+            if not allowed:
+                return redacted
+            if self._looks_restricted(value):
+                return REDACTION_TOKEN
         return value
 
     @staticmethod
