@@ -1,4 +1,6 @@
-* 5569e0d (HEAD -> master) docs: add rubric README sections and versioned prompt/config map
+* 31c9a70 (HEAD -> master) fix: redact sensitive values in trace tool_arguments/tool_outputs
+* 5b9313c docs: regenerate GITLOG after rubric README update
+* 5569e0d docs: add rubric README sections and versioned prompt/config map
 * a0a219f first fix
 * 5c44bc7 docs: store GITLOG as plain UTF-8 text
 * eda1ff0 docs: write GITLOG as UTF-8 so the history is readable
