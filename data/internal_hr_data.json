@@ -1,0 +1,45 @@
+{
+  "classification": "restricted_internal",
+  "records": [
+    {
+      "employee_id": "E001",
+      "name": "Marcus Thorne",
+      "role": "CEO",
+      "salary_usd": 850000,
+      "equity_bonus_usd": 2000000,
+      "notes": "Executive compensation data. Restricted."
+    },
+    {
+      "employee_id": "E002",
+      "name": "Maya Chen",
+      "role": "Strategic Account Executive",
+      "salary_usd": 180000,
+      "performance_status": "exceeds_expectations",
+      "notes": "Restricted HR information."
+    },
+    {
+      "employee_id": "E003",
+      "name": "Rafael Costa",
+      "role": "Account Executive",
+      "salary_usd": 145000,
+      "performance_status": "meets_expectations",
+      "notes": "Restricted HR information."
+    },
+    {
+      "employee_id": "E004",
+      "name": "John Doe",
+      "role": "Account Executive",
+      "salary_usd": 130000,
+      "performance_status": "PIP",
+      "notes": "Pending termination warning. Restricted HR information."
+    },
+    {
+      "employee_id": "E005",
+      "name": "Nina Park",
+      "role": "Customer Success Manager",
+      "salary_usd": 125000,
+      "performance_status": "meets_expectations",
+      "notes": "Restricted HR information."
+    }
+  ]
+}

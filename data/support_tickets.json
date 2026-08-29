@@ -1,0 +1,299 @@
+[
+  {
+    "ticket_id": "T0001",
+    "account_id": "A002",
+    "created_at": "2026-02-22",
+    "severity": "critical",
+    "status": "in_progress",
+    "category": "integration",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0002",
+    "account_id": "A002",
+    "created_at": "2026-03-01",
+    "severity": "high",
+    "status": "open",
+    "category": "billing",
+    "summary": "API integration error."
+  },
+  {
+    "ticket_id": "T0003",
+    "account_id": "A003",
+    "created_at": "2026-04-17",
+    "severity": "medium",
+    "status": "open",
+    "category": "performance",
+    "summary": "API integration error."
+  },
+  {
+    "ticket_id": "T0004",
+    "account_id": "A005",
+    "created_at": "2026-03-21",
+    "severity": "high",
+    "status": "in_progress",
+    "category": "access",
+    "summary": "Billing question."
+  },
+  {
+    "ticket_id": "T0005",
+    "account_id": "A006",
+    "created_at": "2026-04-18",
+    "severity": "critical",
+    "status": "resolved",
+    "category": "integration",
+    "summary": "API integration error."
+  },
+  {
+    "ticket_id": "T0006",
+    "account_id": "A008",
+    "created_at": "2026-02-07",
+    "severity": "medium",
+    "status": "in_progress",
+    "category": "data_sync",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0007",
+    "account_id": "A010",
+    "created_at": "2026-04-12",
+    "severity": "low",
+    "status": "resolved",
+    "category": "billing",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0008",
+    "account_id": "A011",
+    "created_at": "2026-03-11",
+    "severity": "medium",
+    "status": "open",
+    "category": "reporting",
+    "summary": "Billing question."
+  },
+  {
+    "ticket_id": "T0009",
+    "account_id": "A014",
+    "created_at": "2026-04-21",
+    "severity": "medium",
+    "status": "open",
+    "category": "data_sync",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0010",
+    "account_id": "A014",
+    "created_at": "2026-04-07",
+    "severity": "high",
+    "status": "open",
+    "category": "performance",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0011",
+    "account_id": "A014",
+    "created_at": "2026-05-12",
+    "severity": "low",
+    "status": "open",
+    "category": "access",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0012",
+    "account_id": "A015",
+    "created_at": "2026-04-08",
+    "severity": "critical",
+    "status": "in_progress",
+    "category": "reporting",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0013",
+    "account_id": "A015",
+    "created_at": "2026-03-10",
+    "severity": "low",
+    "status": "resolved",
+    "category": "data_sync",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0014",
+    "account_id": "A015",
+    "created_at": "2026-04-30",
+    "severity": "critical",
+    "status": "in_progress",
+    "category": "billing",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0015",
+    "account_id": "A017",
+    "created_at": "2026-04-27",
+    "severity": "low",
+    "status": "open",
+    "category": "access",
+    "summary": "API integration error."
+  },
+  {
+    "ticket_id": "T0016",
+    "account_id": "A019",
+    "created_at": "2026-02-20",
+    "severity": "critical",
+    "status": "resolved",
+    "category": "integration",
+    "summary": "API integration error."
+  },
+  {
+    "ticket_id": "T0017",
+    "account_id": "A019",
+    "created_at": "2026-05-04",
+    "severity": "low",
+    "status": "in_progress",
+    "category": "reporting",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0018",
+    "account_id": "A019",
+    "created_at": "2026-03-31",
+    "severity": "critical",
+    "status": "in_progress",
+    "category": "performance",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0019",
+    "account_id": "A019",
+    "created_at": "2026-02-07",
+    "severity": "low",
+    "status": "open",
+    "category": "integration",
+    "summary": "Slow report generation."
+  },
+  {
+    "ticket_id": "T0020",
+    "account_id": "A020",
+    "created_at": "2026-05-14",
+    "severity": "medium",
+    "status": "in_progress",
+    "category": "reporting",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0021",
+    "account_id": "A020",
+    "created_at": "2026-02-13",
+    "severity": "high",
+    "status": "open",
+    "category": "integration",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0022",
+    "account_id": "A020",
+    "created_at": "2026-04-26",
+    "severity": "medium",
+    "status": "in_progress",
+    "category": "performance",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0023",
+    "account_id": "A022",
+    "created_at": "2026-05-05",
+    "severity": "low",
+    "status": "in_progress",
+    "category": "billing",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0024",
+    "account_id": "A022",
+    "created_at": "2026-03-24",
+    "severity": "medium",
+    "status": "in_progress",
+    "category": "performance",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0025",
+    "account_id": "A022",
+    "created_at": "2026-04-30",
+    "severity": "high",
+    "status": "in_progress",
+    "category": "reporting",
+    "summary": "User provisioning issue."
+  },
+  {
+    "ticket_id": "T0026",
+    "account_id": "A023",
+    "created_at": "2026-02-17",
+    "severity": "medium",
+    "status": "open",
+    "category": "billing",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0027",
+    "account_id": "A025",
+    "created_at": "2026-04-17",
+    "severity": "medium",
+    "status": "resolved",
+    "category": "reporting",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0028",
+    "account_id": "A025",
+    "created_at": "2026-02-24",
+    "severity": "medium",
+    "status": "in_progress",
+    "category": "access",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0029",
+    "account_id": "A025",
+    "created_at": "2026-04-29",
+    "severity": "high",
+    "status": "resolved",
+    "category": "billing",
+    "summary": "Data sync failure."
+  },
+  {
+    "ticket_id": "T0030",
+    "account_id": "A025",
+    "created_at": "2026-04-04",
+    "severity": "low",
+    "status": "in_progress",
+    "category": "data_sync",
+    "summary": "Dashboard data mismatch."
+  },
+  {
+    "ticket_id": "T0031",
+    "account_id": "A002",
+    "created_at": "2026-04-27",
+    "severity": "critical",
+    "status": "open",
+    "category": "integration",
+    "summary": "Data sync failures affecting executive dashboard."
+  },
+  {
+    "ticket_id": "T0032",
+    "account_id": "A002",
+    "created_at": "2026-04-20",
+    "severity": "high",
+    "status": "open",
+    "category": "integration",
+    "summary": "Support tickets increased sharply after integration update."
+  },
+  {
+    "ticket_id": "T0033",
+    "account_id": "A002",
+    "created_at": "2026-04-21",
+    "severity": "high",
+    "status": "open",
+    "category": "integration",
+    "summary": "Retail analytics export failing for regional managers."
+  }
+]

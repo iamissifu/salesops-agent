@@ -1,0 +1,245 @@
+[
+  {
+    "usage_id": "U0001",
+    "account_id": "A001",
+    "period": "2026-04",
+    "active_users": 343,
+    "monthly_logins": 2614,
+    "usage_trend": "up",
+    "feature_adoption_score": 21
+  },
+  {
+    "usage_id": "U0002",
+    "account_id": "A002",
+    "period": "2026-04",
+    "active_users": 42,
+    "monthly_logins": 185,
+    "usage_trend": "down",
+    "feature_adoption_score": 31
+  },
+  {
+    "usage_id": "U0003",
+    "account_id": "A003",
+    "period": "2026-04",
+    "active_users": 88,
+    "monthly_logins": 1220,
+    "usage_trend": "up",
+    "feature_adoption_score": 91
+  },
+  {
+    "usage_id": "U0004",
+    "account_id": "A004",
+    "period": "2026-04",
+    "active_users": 366,
+    "monthly_logins": 820,
+    "usage_trend": "flat",
+    "feature_adoption_score": 75
+  },
+  {
+    "usage_id": "U0005",
+    "account_id": "A005",
+    "period": "2026-04",
+    "active_users": 57,
+    "monthly_logins": 310,
+    "usage_trend": "down",
+    "feature_adoption_score": 39
+  },
+  {
+    "usage_id": "U0006",
+    "account_id": "A006",
+    "period": "2026-04",
+    "active_users": 336,
+    "monthly_logins": 3192,
+    "usage_trend": "flat",
+    "feature_adoption_score": 39
+  },
+  {
+    "usage_id": "U0007",
+    "account_id": "A007",
+    "period": "2026-04",
+    "active_users": 293,
+    "monthly_logins": 487,
+    "usage_trend": "down",
+    "feature_adoption_score": 21
+  },
+  {
+    "usage_id": "U0008",
+    "account_id": "A008",
+    "period": "2026-04",
+    "active_users": 88,
+    "monthly_logins": 4181,
+    "usage_trend": "flat",
+    "feature_adoption_score": 80
+  },
+  {
+    "usage_id": "U0009",
+    "account_id": "A009",
+    "period": "2026-04",
+    "active_users": 92,
+    "monthly_logins": 653,
+    "usage_trend": "down",
+    "feature_adoption_score": 82
+  },
+  {
+    "usage_id": "U0010",
+    "account_id": "A010",
+    "period": "2026-04",
+    "active_users": 177,
+    "monthly_logins": 2318,
+    "usage_trend": "up",
+    "feature_adoption_score": 26
+  },
+  {
+    "usage_id": "U0011",
+    "account_id": "A011",
+    "period": "2026-04",
+    "active_users": 289,
+    "monthly_logins": 3141,
+    "usage_trend": "flat",
+    "feature_adoption_score": 71
+  },
+  {
+    "usage_id": "U0012",
+    "account_id": "A012",
+    "period": "2026-04",
+    "active_users": 48,
+    "monthly_logins": 3800,
+    "usage_trend": "down",
+    "feature_adoption_score": 76
+  },
+  {
+    "usage_id": "U0013",
+    "account_id": "A013",
+    "period": "2026-04",
+    "active_users": 237,
+    "monthly_logins": 761,
+    "usage_trend": "down",
+    "feature_adoption_score": 83
+  },
+  {
+    "usage_id": "U0014",
+    "account_id": "A014",
+    "period": "2026-04",
+    "active_users": 68,
+    "monthly_logins": 4114,
+    "usage_trend": "flat",
+    "feature_adoption_score": 22
+  },
+  {
+    "usage_id": "U0015",
+    "account_id": "A015",
+    "period": "2026-04",
+    "active_users": 219,
+    "monthly_logins": 333,
+    "usage_trend": "up",
+    "feature_adoption_score": 91
+  },
+  {
+    "usage_id": "U0016",
+    "account_id": "A016",
+    "period": "2026-04",
+    "active_users": 54,
+    "monthly_logins": 4989,
+    "usage_trend": "flat",
+    "feature_adoption_score": 58
+  },
+  {
+    "usage_id": "U0017",
+    "account_id": "A017",
+    "period": "2026-04",
+    "active_users": 295,
+    "monthly_logins": 1734,
+    "usage_trend": "down",
+    "feature_adoption_score": 78
+  },
+  {
+    "usage_id": "U0018",
+    "account_id": "A018",
+    "period": "2026-04",
+    "active_users": 194,
+    "monthly_logins": 484,
+    "usage_trend": "down",
+    "feature_adoption_score": 48
+  },
+  {
+    "usage_id": "U0019",
+    "account_id": "A019",
+    "period": "2026-04",
+    "active_users": 177,
+    "monthly_logins": 4628,
+    "usage_trend": "down",
+    "feature_adoption_score": 80
+  },
+  {
+    "usage_id": "U0020",
+    "account_id": "A020",
+    "period": "2026-04",
+    "active_users": 194,
+    "monthly_logins": 3747,
+    "usage_trend": "flat",
+    "feature_adoption_score": 34
+  },
+  {
+    "usage_id": "U0021",
+    "account_id": "A021",
+    "period": "2026-04",
+    "active_users": 345,
+    "monthly_logins": 1856,
+    "usage_trend": "up",
+    "feature_adoption_score": 20
+  },
+  {
+    "usage_id": "U0022",
+    "account_id": "A022",
+    "period": "2026-04",
+    "active_users": 332,
+    "monthly_logins": 2431,
+    "usage_trend": "up",
+    "feature_adoption_score": 90
+  },
+  {
+    "usage_id": "U0023",
+    "account_id": "A023",
+    "period": "2026-04",
+    "active_users": 367,
+    "monthly_logins": 910,
+    "usage_trend": "flat",
+    "feature_adoption_score": 25
+  },
+  {
+    "usage_id": "U0024",
+    "account_id": "A024",
+    "period": "2026-04",
+    "active_users": 260,
+    "monthly_logins": 1190,
+    "usage_trend": "down",
+    "feature_adoption_score": 72
+  },
+  {
+    "usage_id": "U0025",
+    "account_id": "A025",
+    "period": "2026-04",
+    "active_users": 320,
+    "monthly_logins": 1644,
+    "usage_trend": "up",
+    "feature_adoption_score": 44
+  },
+  {
+    "usage_id": "U0026",
+    "account_id": "A026",
+    "period": "2026-04",
+    "active_users": 209,
+    "monthly_logins": 1806,
+    "usage_trend": "up",
+    "feature_adoption_score": 78
+  },
+  {
+    "usage_id": "U0027",
+    "account_id": "A027",
+    "period": "2026-04",
+    "active_users": 105,
+    "monthly_logins": 2808,
+    "usage_trend": "down",
+    "feature_adoption_score": 33
+  }
+]

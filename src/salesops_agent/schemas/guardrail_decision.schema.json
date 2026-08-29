@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://salesops-agent.local/schemas/guardrail_decision.schema.json",
+  "title": "GuardrailDecision",
+  "description": "Decision emitted by input, tool, output, sandbox, or HITL policy layers",
+  "type": "object",
+  "required": ["layer", "allowed"],
+  "properties": {
+    "layer": {
+      "type": "string",
+      "enum": ["input", "tool", "output", "sandbox", "hitl"]
+    },
+    "allowed": { "type": "boolean" },
+    "reason": { "type": ["string", "null"] },
+    "policy": { "type": ["string", "null"] },
+    "details": { "type": "object" }
+  }
+}

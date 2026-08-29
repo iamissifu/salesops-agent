@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://salesops-agent.local/schemas/trace_entry.schema.json",
+  "title": "TraceEntry",
+  "description": "Per-run debug trace written to traces/<run_id>.json",
+  "type": "object",
+  "required": [
+    "run_id",
+    "input",
+    "selected_tools",
+    "tool_arguments",
+    "tool_outputs",
+    "guardrail_decisions",
+    "hitl_decision",
+    "final_output",
+    "error_messages"
+  ],
+  "properties": {
+    "run_id": { "type": "string" },
+    "input": { "type": "string" },
+    "selected_tools": { "type": "array", "items": { "type": "string" } },
+    "tool_arguments": { "type": "array", "items": { "type": "object" } },
+    "tool_outputs": { "type": "array" },
+    "guardrail_decisions": { "type": "array", "items": { "type": "object" } },
+    "hitl_decision": {
+      "type": "string",
+      "enum": ["approved", "rejected", "not_required"]
+    },
+    "final_output": {},
+    "error_messages": { "type": "array", "items": { "type": "string" } }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://salesops-agent.local/schemas/tool.schema.json",
+  "title": "ToolCall",
+  "description": "Input and output contract for SalesOps agent tools",
+  "type": "object",
+  "oneOf": [
+    {
+      "title": "ToolInput",
+      "type": "object",
+      "required": ["name", "arguments"],
+      "properties": {
+        "name": { "type": "string" },
+        "arguments": { "type": "object" }
+      }
+    },
+    {
+      "title": "ToolResult",
+      "type": "object",
+      "required": ["name", "status"],
+      "properties": {
+        "name": { "type": "string" },
+        "status": { "type": "string", "enum": ["success", "blocked", "error"] },
+        "output": {},
+        "reason": { "type": ["string", "null"] },
+        "policy": { "type": ["string", "null"] }
+      }
+    }
+  ]
+}

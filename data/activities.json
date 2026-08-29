@@ -1,0 +1,1694 @@
+[
+  {
+    "activity_id": "ACT0001",
+    "account_id": "A097",
+    "date": "2026-02-03",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0002",
+    "account_id": "A097",
+    "date": "2026-03-12",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0003",
+    "account_id": "A101",
+    "date": "2026-02-12",
+    "type": "call",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0004",
+    "account_id": "A101",
+    "date": "2026-03-01",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0005",
+    "account_id": "A101",
+    "date": "2026-01-01",
+    "type": "email",
+    "owner": "Jordan Blake",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0006",
+    "account_id": "A053",
+    "date": "2026-05-13",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0007",
+    "account_id": "A053",
+    "date": "2026-01-31",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0008",
+    "account_id": "A008",
+    "date": "2026-04-09",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0009",
+    "account_id": "A008",
+    "date": "2026-03-22",
+    "type": "meeting",
+    "owner": "Priya Nair",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0010",
+    "account_id": "A036",
+    "date": "2026-02-06",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0011",
+    "account_id": "A036",
+    "date": "2026-02-12",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0012",
+    "account_id": "A084",
+    "date": "2026-04-16",
+    "type": "demo",
+    "owner": "Ethan Miller",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0013",
+    "account_id": "A084",
+    "date": "2026-01-23",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0014",
+    "account_id": "A017",
+    "date": "2026-03-31",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0015",
+    "account_id": "A017",
+    "date": "2026-03-12",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0016",
+    "account_id": "A017",
+    "date": "2026-03-14",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0017",
+    "account_id": "A017",
+    "date": "2026-05-11",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0018",
+    "account_id": "A090",
+    "date": "2026-03-03",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0019",
+    "account_id": "A103",
+    "date": "2026-01-19",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0020",
+    "account_id": "A103",
+    "date": "2026-02-03",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0021",
+    "account_id": "A103",
+    "date": "2026-02-14",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0022",
+    "account_id": "A103",
+    "date": "2026-01-04",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "Discovery call completed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0023",
+    "account_id": "A103",
+    "date": "2026-04-12",
+    "type": "demo",
+    "owner": "Priya Nair",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0024",
+    "account_id": "A032",
+    "date": "2026-04-19",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0025",
+    "account_id": "A032",
+    "date": "2026-02-09",
+    "type": "meeting",
+    "owner": "Maya Chen",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0026",
+    "account_id": "A032",
+    "date": "2026-02-22",
+    "type": "email",
+    "owner": "Sofia Mendes",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0027",
+    "account_id": "A032",
+    "date": "2026-01-17",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0028",
+    "account_id": "A019",
+    "date": "2026-01-15",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0029",
+    "account_id": "A019",
+    "date": "2026-01-15",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0030",
+    "account_id": "A092",
+    "date": "2026-01-31",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0031",
+    "account_id": "A092",
+    "date": "2026-02-11",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0032",
+    "account_id": "A042",
+    "date": "2026-02-12",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0033",
+    "account_id": "A042",
+    "date": "2026-03-10",
+    "type": "call",
+    "owner": "Maya Chen",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0034",
+    "account_id": "A042",
+    "date": "2026-03-11",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0035",
+    "account_id": "A100",
+    "date": "2026-01-20",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0036",
+    "account_id": "A100",
+    "date": "2026-05-08",
+    "type": "demo",
+    "owner": "Rafael Costa",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0037",
+    "account_id": "A100",
+    "date": "2026-01-27",
+    "type": "demo",
+    "owner": "Ethan Miller",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0038",
+    "account_id": "A100",
+    "date": "2026-05-11",
+    "type": "call",
+    "owner": "Maya Chen",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0039",
+    "account_id": "A100",
+    "date": "2026-03-04",
+    "type": "call",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0040",
+    "account_id": "A087",
+    "date": "2026-02-15",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0041",
+    "account_id": "A087",
+    "date": "2026-04-18",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0042",
+    "account_id": "A051",
+    "date": "2026-03-11",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0043",
+    "account_id": "A051",
+    "date": "2026-01-14",
+    "type": "email",
+    "owner": "Rafael Costa",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0044",
+    "account_id": "A051",
+    "date": "2026-01-12",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0045",
+    "account_id": "A063",
+    "date": "2026-03-25",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0046",
+    "account_id": "A063",
+    "date": "2026-02-21",
+    "type": "meeting",
+    "owner": "Sofia Mendes",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0047",
+    "account_id": "A063",
+    "date": "2026-03-04",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0048",
+    "account_id": "A099",
+    "date": "2026-03-04",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0049",
+    "account_id": "A099",
+    "date": "2026-05-19",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0050",
+    "account_id": "A074",
+    "date": "2026-03-27",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0051",
+    "account_id": "A081",
+    "date": "2026-01-27",
+    "type": "email",
+    "owner": "Sofia Mendes",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0052",
+    "account_id": "A081",
+    "date": "2026-01-16",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0053",
+    "account_id": "A081",
+    "date": "2026-03-01",
+    "type": "demo",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0054",
+    "account_id": "A035",
+    "date": "2026-01-22",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0055",
+    "account_id": "A035",
+    "date": "2026-04-11",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0056",
+    "account_id": "A035",
+    "date": "2026-02-03",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0057",
+    "account_id": "A035",
+    "date": "2026-04-11",
+    "type": "meeting",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0058",
+    "account_id": "A102",
+    "date": "2026-02-21",
+    "type": "email",
+    "owner": "Sofia Mendes",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0059",
+    "account_id": "A054",
+    "date": "2026-04-26",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0060",
+    "account_id": "A054",
+    "date": "2026-04-02",
+    "type": "email",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0061",
+    "account_id": "A049",
+    "date": "2026-01-24",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0062",
+    "account_id": "A058",
+    "date": "2026-01-11",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Follow-up email sent.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0063",
+    "account_id": "A058",
+    "date": "2026-03-05",
+    "type": "meeting",
+    "owner": "Jordan Blake",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0064",
+    "account_id": "A058",
+    "date": "2026-03-18",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "Discovery call completed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0065",
+    "account_id": "A058",
+    "date": "2026-04-26",
+    "type": "demo",
+    "owner": "Ethan Miller",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0066",
+    "account_id": "A058",
+    "date": "2026-04-29",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0067",
+    "account_id": "A010",
+    "date": "2026-02-03",
+    "type": "email",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0068",
+    "account_id": "A010",
+    "date": "2026-01-22",
+    "type": "demo",
+    "owner": "Sofia Mendes",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0069",
+    "account_id": "A082",
+    "date": "2026-01-06",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0070",
+    "account_id": "A012",
+    "date": "2026-01-24",
+    "type": "meeting",
+    "owner": "Maya Chen",
+    "summary": "Discovery call completed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0071",
+    "account_id": "A012",
+    "date": "2026-01-13",
+    "type": "email",
+    "owner": "Sofia Mendes",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0072",
+    "account_id": "A052",
+    "date": "2026-05-08",
+    "type": "call",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0073",
+    "account_id": "A052",
+    "date": "2026-04-01",
+    "type": "email",
+    "owner": "Rafael Costa",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0074",
+    "account_id": "A052",
+    "date": "2026-02-08",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0075",
+    "account_id": "A052",
+    "date": "2026-03-17",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0076",
+    "account_id": "A066",
+    "date": "2026-03-13",
+    "type": "note",
+    "owner": "Rafael Costa",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0077",
+    "account_id": "A105",
+    "date": "2026-03-05",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0078",
+    "account_id": "A105",
+    "date": "2026-04-02",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0079",
+    "account_id": "A105",
+    "date": "2026-05-09",
+    "type": "meeting",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0080",
+    "account_id": "A105",
+    "date": "2026-03-23",
+    "type": "demo",
+    "owner": "Rafael Costa",
+    "summary": "Discovery call completed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0081",
+    "account_id": "A105",
+    "date": "2026-03-13",
+    "type": "call",
+    "owner": "Jordan Blake",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0082",
+    "account_id": "A048",
+    "date": "2026-03-01",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0083",
+    "account_id": "A048",
+    "date": "2026-03-10",
+    "type": "demo",
+    "owner": "Ethan Miller",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0084",
+    "account_id": "A048",
+    "date": "2026-02-26",
+    "type": "demo",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0085",
+    "account_id": "A048",
+    "date": "2026-02-14",
+    "type": "email",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0086",
+    "account_id": "A048",
+    "date": "2026-04-02",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0087",
+    "account_id": "A059",
+    "date": "2026-02-06",
+    "type": "demo",
+    "owner": "Rafael Costa",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0088",
+    "account_id": "A059",
+    "date": "2026-05-07",
+    "type": "demo",
+    "owner": "Priya Nair",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0089",
+    "account_id": "A059",
+    "date": "2026-01-24",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0090",
+    "account_id": "A059",
+    "date": "2026-05-15",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0091",
+    "account_id": "A059",
+    "date": "2026-02-21",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0092",
+    "account_id": "A093",
+    "date": "2026-01-16",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0093",
+    "account_id": "A093",
+    "date": "2026-02-06",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0094",
+    "account_id": "A093",
+    "date": "2026-01-19",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0095",
+    "account_id": "A109",
+    "date": "2026-03-28",
+    "type": "meeting",
+    "owner": "Priya Nair",
+    "summary": "Follow-up email sent.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0096",
+    "account_id": "A001",
+    "date": "2026-05-05",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "No response to last outreach.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0097",
+    "account_id": "A001",
+    "date": "2026-04-02",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0098",
+    "account_id": "A001",
+    "date": "2026-04-07",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0099",
+    "account_id": "A001",
+    "date": "2026-02-15",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0100",
+    "account_id": "A083",
+    "date": "2026-01-09",
+    "type": "email",
+    "owner": "Sofia Mendes",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0101",
+    "account_id": "A083",
+    "date": "2026-02-26",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0102",
+    "account_id": "A083",
+    "date": "2026-01-20",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0103",
+    "account_id": "A083",
+    "date": "2026-01-23",
+    "type": "meeting",
+    "owner": "Jordan Blake",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0104",
+    "account_id": "A083",
+    "date": "2026-03-05",
+    "type": "call",
+    "owner": "Priya Nair",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0105",
+    "account_id": "A077",
+    "date": "2026-01-13",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0106",
+    "account_id": "A046",
+    "date": "2026-04-16",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0107",
+    "account_id": "A046",
+    "date": "2026-01-26",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0108",
+    "account_id": "A009",
+    "date": "2026-02-11",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0109",
+    "account_id": "A009",
+    "date": "2026-03-17",
+    "type": "call",
+    "owner": "Priya Nair",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0110",
+    "account_id": "A069",
+    "date": "2026-03-29",
+    "type": "email",
+    "owner": "Jordan Blake",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0111",
+    "account_id": "A094",
+    "date": "2026-01-24",
+    "type": "meeting",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0112",
+    "account_id": "A094",
+    "date": "2026-01-08",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0113",
+    "account_id": "A094",
+    "date": "2026-04-22",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0114",
+    "account_id": "A094",
+    "date": "2026-02-18",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0115",
+    "account_id": "A094",
+    "date": "2026-05-19",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0116",
+    "account_id": "A028",
+    "date": "2026-01-13",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0117",
+    "account_id": "A055",
+    "date": "2026-01-14",
+    "type": "meeting",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0118",
+    "account_id": "A055",
+    "date": "2026-05-03",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Discovery call completed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0119",
+    "account_id": "A067",
+    "date": "2026-01-21",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0120",
+    "account_id": "A067",
+    "date": "2026-05-01",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0121",
+    "account_id": "A067",
+    "date": "2026-04-10",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0122",
+    "account_id": "A064",
+    "date": "2026-01-12",
+    "type": "meeting",
+    "owner": "Jordan Blake",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0123",
+    "account_id": "A064",
+    "date": "2026-03-10",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0124",
+    "account_id": "A064",
+    "date": "2026-01-25",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0125",
+    "account_id": "A064",
+    "date": "2026-04-16",
+    "type": "demo",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0126",
+    "account_id": "A018",
+    "date": "2026-05-14",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "No response to last outreach.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0127",
+    "account_id": "A018",
+    "date": "2026-05-02",
+    "type": "demo",
+    "owner": "Rafael Costa",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0128",
+    "account_id": "A018",
+    "date": "2026-04-12",
+    "type": "call",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0129",
+    "account_id": "A018",
+    "date": "2026-02-07",
+    "type": "call",
+    "owner": "Jordan Blake",
+    "summary": "Follow-up email sent.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0130",
+    "account_id": "A021",
+    "date": "2026-02-24",
+    "type": "email",
+    "owner": "Rafael Costa",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0131",
+    "account_id": "A021",
+    "date": "2026-04-22",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0132",
+    "account_id": "A095",
+    "date": "2026-03-23",
+    "type": "call",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0133",
+    "account_id": "A095",
+    "date": "2026-03-25",
+    "type": "meeting",
+    "owner": "Sofia Mendes",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0134",
+    "account_id": "A095",
+    "date": "2026-01-04",
+    "type": "demo",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0135",
+    "account_id": "A098",
+    "date": "2026-04-17",
+    "type": "email",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0136",
+    "account_id": "A022",
+    "date": "2026-01-28",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0137",
+    "account_id": "A079",
+    "date": "2026-03-30",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0138",
+    "account_id": "A079",
+    "date": "2026-05-02",
+    "type": "call",
+    "owner": "Rafael Costa",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0139",
+    "account_id": "A079",
+    "date": "2026-04-13",
+    "type": "call",
+    "owner": "Jordan Blake",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0140",
+    "account_id": "A079",
+    "date": "2026-01-13",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0141",
+    "account_id": "A079",
+    "date": "2026-03-19",
+    "type": "meeting",
+    "owner": "Priya Nair",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0142",
+    "account_id": "A037",
+    "date": "2026-02-28",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0143",
+    "account_id": "A070",
+    "date": "2026-03-10",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0144",
+    "account_id": "A070",
+    "date": "2026-04-24",
+    "type": "email",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0145",
+    "account_id": "A070",
+    "date": "2026-05-13",
+    "type": "meeting",
+    "owner": "Maya Chen",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0146",
+    "account_id": "A057",
+    "date": "2026-03-21",
+    "type": "demo",
+    "owner": "Jordan Blake",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0147",
+    "account_id": "A096",
+    "date": "2026-01-08",
+    "type": "email",
+    "owner": "Rafael Costa",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0148",
+    "account_id": "A096",
+    "date": "2026-01-15",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0149",
+    "account_id": "A096",
+    "date": "2026-04-03",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0150",
+    "account_id": "A096",
+    "date": "2026-05-10",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0151",
+    "account_id": "A096",
+    "date": "2026-03-03",
+    "type": "meeting",
+    "owner": "Jordan Blake",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0152",
+    "account_id": "A068",
+    "date": "2026-03-31",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0153",
+    "account_id": "A068",
+    "date": "2026-01-24",
+    "type": "meeting",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0154",
+    "account_id": "A068",
+    "date": "2026-02-24",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0155",
+    "account_id": "A068",
+    "date": "2026-03-10",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "Discovery call completed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0156",
+    "account_id": "A072",
+    "date": "2026-05-02",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0157",
+    "account_id": "A044",
+    "date": "2026-02-27",
+    "type": "meeting",
+    "owner": "Sofia Mendes",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0158",
+    "account_id": "A086",
+    "date": "2026-04-19",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0159",
+    "account_id": "A086",
+    "date": "2026-04-30",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0160",
+    "account_id": "A086",
+    "date": "2026-04-12",
+    "type": "demo",
+    "owner": "Maya Chen",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0161",
+    "account_id": "A004",
+    "date": "2026-03-14",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Discovery call completed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0162",
+    "account_id": "A004",
+    "date": "2026-03-28",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0163",
+    "account_id": "A004",
+    "date": "2026-03-08",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0164",
+    "account_id": "A003",
+    "date": "2026-01-15",
+    "type": "demo",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0165",
+    "account_id": "A003",
+    "date": "2026-02-05",
+    "type": "call",
+    "owner": "Ethan Miller",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0166",
+    "account_id": "A007",
+    "date": "2026-04-18",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0167",
+    "account_id": "A007",
+    "date": "2026-02-18",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0168",
+    "account_id": "A007",
+    "date": "2026-05-17",
+    "type": "note",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0169",
+    "account_id": "A041",
+    "date": "2026-02-16",
+    "type": "meeting",
+    "owner": "Maya Chen",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0170",
+    "account_id": "A041",
+    "date": "2026-03-08",
+    "type": "demo",
+    "owner": "Rafael Costa",
+    "summary": "No response to last outreach.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0171",
+    "account_id": "A030",
+    "date": "2026-02-26",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "No response to last outreach.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0172",
+    "account_id": "A002",
+    "date": "2026-03-26",
+    "type": "meeting",
+    "owner": "Priya Nair",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0173",
+    "account_id": "A002",
+    "date": "2026-01-31",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0174",
+    "account_id": "A002",
+    "date": "2026-01-19",
+    "type": "note",
+    "owner": "Rafael Costa",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0175",
+    "account_id": "A002",
+    "date": "2026-04-08",
+    "type": "demo",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0176",
+    "account_id": "A106",
+    "date": "2026-02-05",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Technical validation requested.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0177",
+    "account_id": "A106",
+    "date": "2026-04-28",
+    "type": "email",
+    "owner": "Priya Nair",
+    "summary": "Executive sponsor joined the meeting.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0178",
+    "account_id": "A011",
+    "date": "2026-05-05",
+    "type": "meeting",
+    "owner": "Ethan Miller",
+    "summary": "Follow-up email sent.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0179",
+    "account_id": "A029",
+    "date": "2026-01-02",
+    "type": "note",
+    "owner": "Priya Nair",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0180",
+    "account_id": "A045",
+    "date": "2026-02-10",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "Follow-up email sent.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0181",
+    "account_id": "A045",
+    "date": "2026-04-20",
+    "type": "note",
+    "owner": "Jordan Blake",
+    "summary": "Technical validation requested.",
+    "sentiment": "neutral"
+  },
+  {
+    "activity_id": "ACT0182",
+    "account_id": "A091",
+    "date": "2026-05-17",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0183",
+    "account_id": "A065",
+    "date": "2026-05-16",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "No response to last outreach.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0184",
+    "account_id": "A065",
+    "date": "2026-03-05",
+    "type": "email",
+    "owner": "Ethan Miller",
+    "summary": "Pricing questions discussed.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0185",
+    "account_id": "A065",
+    "date": "2026-01-27",
+    "type": "note",
+    "owner": "Sofia Mendes",
+    "summary": "Stakeholder asked for customer references.",
+    "sentiment": "positive"
+  },
+  {
+    "activity_id": "ACT0186",
+    "account_id": "A002",
+    "date": "2026-01-08",
+    "type": "email",
+    "owner": "Maya Chen",
+    "summary": "Follow-up email sent to CTO. No response.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0187",
+    "account_id": "A002",
+    "date": "2026-04-28",
+    "type": "note",
+    "owner": "Maya Chen",
+    "summary": "CTO ignoring all emails. Renewal risk escalated.",
+    "sentiment": "negative"
+  },
+  {
+    "activity_id": "ACT0188",
+    "account_id": "A003",
+    "date": "2026-05-18",
+    "type": "meeting",
+    "owner": "Rafael Costa",
+    "summary": "Customer expressed strong satisfaction but asked for renewal paperwork before contract deadline.",
+    "sentiment": "positive"
+  }
+]

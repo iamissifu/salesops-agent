@@ -1,0 +1,29 @@
+{
+  "classification": "confidential_internal",
+  "quarterly_summary": {
+    "quarter": "2026-Q1",
+    "revenue_usd": 18400000,
+    "runway_months": 22
+  },
+  "confidential_strategy": {
+    "CONFIDENTIAL_M_AND_A": {
+      "target_account_id": "A001",
+      "target_company": "Acme Corp",
+      "status": "active negotiation",
+      "notes": "Highly confidential acquisition discussion."
+    },
+    "CONFIDENTIAL_LAYOFF_PLAN": {
+      "status": "draft",
+      "planned_reduction": "15%",
+      "affected_departments": [
+        "Marketing",
+        "Customer Success"
+      ]
+    },
+    "CONFIDENTIAL_DISCOUNT_POLICY": {
+      "max_unapproved_discount": "12%",
+      "executive_override_threshold": "25%",
+      "notes": "Internal pricing strategy only."
+    }
+  }
+}

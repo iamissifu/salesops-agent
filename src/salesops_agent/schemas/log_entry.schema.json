@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://salesops-agent.local/schemas/log_entry.schema.json",
+  "title": "LogEntry",
+  "description": "One structured run record appended to logs/runs.jsonl",
+  "type": "object",
+  "required": [
+    "run_id",
+    "timestamp",
+    "user_input",
+    "final_status",
+    "tools_called",
+    "latency_seconds",
+    "estimated_cost",
+    "guardrail_interventions",
+    "hitl_decision"
+  ],
+  "properties": {
+    "run_id": { "type": "string" },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "user_input": { "type": "string" },
+    "task_id": { "type": ["string", "null"] },
+    "final_status": { "type": "string", "enum": ["success", "blocked", "error"] },
+    "tools_called": { "type": "array", "items": { "type": "string" } },
+    "latency_seconds": { "type": "number" },
+    "estimated_cost": { "type": "number" },
+    "guardrail_interventions": { "type": "array", "items": { "type": "object" } },
+    "hitl_decision": {
+      "type": "string",
+      "enum": ["approved", "rejected", "not_required"]
+    },
+    "failure_reason": { "type": ["string", "null"] }
+  }
+}

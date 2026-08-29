@@ -1,0 +1,28 @@
+[project]
+name = "salesops-agent"
+version = "0.1.0"
+description = "Production-ready SalesOps Agent with guardrails"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "typer>=0.9.0",
+    "rich>=13.0.0",
+    "pytest>=7.4.0",
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+salesops-agent = "salesops_agent.cli:app"
+evaluate = "salesops_agent.evaluation.runner:run_evaluation"
+generate-monitoring-report = "salesops_agent.monitoring.report:generate_report"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
