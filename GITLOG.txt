@@ -1,4 +1,7 @@
-* eda1ff0 (HEAD -> master) docs: write GITLOG as UTF-8 so the history is readable
+* 5569e0d (HEAD -> master) docs: add rubric README sections and versioned prompt/config map
+* a0a219f first fix
+* 5c44bc7 docs: store GITLOG as plain UTF-8 text
+* eda1ff0 docs: write GITLOG as UTF-8 so the history is readable
 * 7fbfcd6 docs: regenerate GITLOG for the consolidated AgentOps runtime
 * a808356 docs: document the single runtime and archive the legacy agent
 * 1275282 feat: aggregate monitoring metrics from real run logs
